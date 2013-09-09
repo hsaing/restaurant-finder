@@ -1,0 +1,5 @@
+Pho45	Vietnamese	10
+All You Can Eat	Chinese	15
+Spicy Indian's	Indian	20
+Eat-in Noodle	Chinese	15
+		
