@@ -60,7 +60,6 @@ class Restaurant
 		return self.new(args)
 	end
 		
-
 	def initialize(args={})
 		@name 		= args[:name] 		|| ""
 		@cuisine 	= args[:cuisine] 	|| ""
